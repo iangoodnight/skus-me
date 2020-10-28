@@ -20,4 +20,11 @@ body {
 	padding: 10px;
 	text-align: center;
 }
-
+#display div {
+	margin-left: 42%;
+	padding: 4px;
+	text-align: left;
+}
+.key {
+	font-weight: bold;
+}
